@@ -1,2 +1,8 @@
-# game-dev_Lab_02
+# game-dev\_Lab\_02
+
 Hands on Git Basis
+
+PLayer speed = 763
+
+
+
