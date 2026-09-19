@@ -2,7 +2,7 @@
 
 Hands on Git Basis
 
-PLayer speed = 763
+PLayer speed = 79
 
 
 
